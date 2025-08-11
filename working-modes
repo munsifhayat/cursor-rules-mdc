@@ -1,0 +1,22 @@
+
+# Your rule content
+
+# Working Modes
+
+This document outlines the two primary working modes we'll be using during our collaboration.
+
+1. Brainstorming Mode
+In this mode:
+No code changes should be made
+Focus is on clearly understanding requirements
+Questions should be asked to clarify understanding
+No assumptions should be made
+Always ask questions when unsure about any aspect
+
+2. Implementation Mode
+In this mode:
+We implement all changes discussed during the brainstorming phase
+Code changes are made according to the agreed-upon plans
+Requirements from brainstorming are transformed into working code
+Process Flow
+We will typically begin with Brainstorming Mode to ensure we have a complete understanding of requirements before moving to Implementation Mode for actual code development.
